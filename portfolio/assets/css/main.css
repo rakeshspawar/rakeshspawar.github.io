@@ -1995,10 +1995,16 @@ input, select, textarea {
 
 		.wrapper.style1 {
 			background-color: #fff;
+			overflow: hidden;
+			position: relative;
 		}
 		.bg{
 			opacity: 0.5;
 			position: absolute;
+			left: 0;
+ 			top: 0;
+  			width: 100%;
+  			height: auto;
 		}
 
 		.wrapper.style2 {
