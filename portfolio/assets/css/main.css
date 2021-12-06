@@ -2117,14 +2117,14 @@ input, select, textarea {
 	}
 
 	#top {
-		padding: 5em 0 5em 0;
+		padding: 10em 0 10em 0;
 		text-align: left;
 	}
 
 		#top .image {
 			border-radius: 100%;
 			width: 20em;
-			height: 20em;
+			height: 15em;
 			margin: 0;
 		}
 
