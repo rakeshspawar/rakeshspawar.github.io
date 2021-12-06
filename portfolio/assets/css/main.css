@@ -1997,6 +1997,10 @@ input, select, textarea {
 			background-image: none;
 			background-color: #fff;
 		}
+		.bg{
+			opacity: 0.5;
+			position: absolute;
+		}
 
 		.wrapper.style2 {
 			background-color: #fafafa;
