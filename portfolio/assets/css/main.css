@@ -227,6 +227,7 @@ input, select, textarea {
 		margin: 0 auto;
 		max-width: calc(100% - 50px);
 		width: 1200px;
+		position: relative;
 	}
 
 		.container.medium {
