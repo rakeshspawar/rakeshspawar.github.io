@@ -2118,7 +2118,7 @@ input, select, textarea {
 	}
 
 	#top {
-		padding: 10em 0 10em 0;
+		padding: 1em 0 1em 0;
 		text-align: left;
 	}
 
@@ -2130,7 +2130,7 @@ input, select, textarea {
 		}
 
 			#top .image img {
-				border-radius: 100%;
+				border-radius: 80%;
 			}
 
 		#top h1 {
@@ -2139,7 +2139,7 @@ input, select, textarea {
 
 		#top p {
 			font-size: 1.5em;
-			line-height: 1.75em;
+			line-height: 1.5em;
 		}
 
 			#top p a {
